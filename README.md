@@ -200,22 +200,42 @@ V salida = V/16 = 12V/16 = 0.75V
 
 46. Se conecta un resistor de valor desconocido a un circuito puente Wheatstone. Los parámetros del puente en equilibrio se establecen como sigue: RV  18 kΩ y R2/R4  0.02. ¿Cuál es RX?
 
+![imagen](https://user-images.githubusercontent.com/105812540/176723335-5e1b56d5-f889-4226-ac5c-ec477aaf3920.png)
+
 48. Determine el voltaje de salida para el puente desequilibrado mostrado en la figura 7-83 a una temperatura de 60°C. La característica de resistencia según la temperatura del termistor se muestra en la figura 7-60.
 
 ![imagen](https://user-images.githubusercontent.com/105812540/176355346-ced5d1c3-1fe0-4fc5-90eb-09038c4eb23b.png)
+
+![imagen](https://user-images.githubusercontent.com/105812540/176723424-f91f025b-7968-452a-9b11-b950324945da.png)
+
+![imagen](https://user-images.githubusercontent.com/105812540/176723516-b8d099db-64f0-449c-9aa5-2b3f4dabd639.png)
+
 
 50. ¿Son correctas las lecturas del medidor mostrado en la figura 7-85?
 
 ![imagen](https://user-images.githubusercontent.com/105812540/176355484-aaf4e4ba-24e0-490c-bd2f-50db094cc1dd.png)
 
+![imagen](https://user-images.githubusercontent.com/105812540/176723662-143e663d-5f10-4bb8-830a-1832d6bd033a.png)
+
+![imagen](https://user-images.githubusercontent.com/105812540/176723780-48aabb06-4a33-4009-9507-258d220d1139.png)
+
+
 52. Vea los medidores ilustrados en la figura 7-87 y determine si hay una falla en el circuito. Si la hay, identifíquela.
 
 ![imagen](https://user-images.githubusercontent.com/105812540/176355604-c4c3ca07-8cd4-44a7-bff0-b3b37e50f7bc.png)
+
+![imagen](https://user-images.githubusercontent.com/105812540/176723905-f7890f69-2181-46d0-a286-5397b15d797f.png)
+
+![imagen](https://user-images.githubusercontent.com/105812540/176723991-cb257594-80bc-4d56-ab56-fb941f6ebdb7.png)
+
 
 54. Si en la figura 7-89 R2 se abre, ¿qué voltajes se leerán en los puntos A, B y C?
 
 ![imagen](https://user-images.githubusercontent.com/105812540/176355801-310d3e6f-0ae1-4c21-9e2c-03d0a0bca1d7.png)
 
+![imagen](https://user-images.githubusercontent.com/105812540/176724099-d65202ee-0785-45b7-a703-727e7b361571.png)
+
+![imagen](https://user-images.githubusercontent.com/105812540/176724163-300ca1a5-01f8-45f7-8837-2850ab78f0e1.png)
 
 # Video Explicativo 
 
