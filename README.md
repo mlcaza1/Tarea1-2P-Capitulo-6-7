@@ -44,6 +44,17 @@ NRC: 7309
 
 # Capitulo 7
 
+![imagen](https://user-images.githubusercontent.com/105812540/176571329-828e8d2c-dff1-4d31-9bf3-49f318f2483c.png)
+
+![imagen](https://user-images.githubusercontent.com/105812540/176571407-b1172714-03c8-4fd1-84e5-1c5a0011b051.png)
+
+![imagen](https://user-images.githubusercontent.com/105812540/176571473-fc1d3ba4-8cbc-42ef-a64c-8c62e9aab5e7.png)
+
+![imagen](https://user-images.githubusercontent.com/105812540/176571515-35917988-c089-4ff1-a39e-a52d03426b9e.png)
+
+![imagen](https://user-images.githubusercontent.com/105812540/176571583-3e795454-c141-4b03-85f2-ffaae5f3e16d.png)
+
+
 # Capitulo 8
 
 # Desarrollo de ejercicios 
@@ -240,6 +251,8 @@ tre la terminal A y tierra.
 
 # Conclusiones 
 Los circuitos en serie-paralelo nos permite utilizar todos los conocimientos habilidades y destrezas aprendidas en capitulos anteriores de tal manera que nos permite resolver ejercicios con mayor dificultad.
+
+El uso de cada uno de los teoremas de circuitos ayuda en el analisis de los mismos con un mayor detenimiento y exactitud mediante operaciones matemáticas y argumentos lógicos.
 
 # Bibliografia 
 
