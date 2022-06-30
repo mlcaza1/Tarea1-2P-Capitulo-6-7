@@ -10,25 +10,17 @@ NRC: 7309
 
 # Objetivos
 
-•	Identificar las relaciones serie-paralelo
+•	Identificar y analizar las relaciones y circuitos serie-paralelo ademas de los divisores de voltaje con carga
 
-•	Analizar circuitos en serie-paralelo
+•	Analizar divisores de voltaje con carga determinar el efecto de carga de un voltímetro en un circuito
 
-•	Analizar divisores de voltaje con carga
-
-•	Determinar el efecto de carga de un voltímetro en un circuito
-
-•	Analizar redes en escalera
-
-•	Analizar y aplicar un puente de Wheatstone
+•	Analizar redes en escalera y aplicar un puente de Wheatstone
 
 •	Localizar fallas en circuitos en serie-paralelo
 
-•	Describir las características de una fuente de voltaje de cd
+•	Describir las características de una fuente de voltaje de cd y fuente de corriente
 
-•	Describir las características de una fuente de corriente
-
-•	Realizar conversiones de fuente
+•	Realizar conversiones de fuentes
 
 •	Aplicar el teorema de superposición al análisis de circuitos
 
@@ -56,6 +48,20 @@ NRC: 7309
 
 
 # Capitulo 8
+
+![imagen](https://user-images.githubusercontent.com/105812540/176595586-bac18563-6fef-46d3-b8ad-f86611d544e5.png)
+
+![imagen](https://user-images.githubusercontent.com/105812540/176595651-291d2db2-9089-4852-879c-6dc272782022.png)
+
+![imagen](https://user-images.githubusercontent.com/105812540/176595723-51b891cc-af04-466c-a306-12939c2eb819.png)
+
+![imagen](https://user-images.githubusercontent.com/105812540/176595816-6fd34611-d662-4d02-82c2-903fb08e6bfc.png)
+
+![imagen](https://user-images.githubusercontent.com/105812540/176595964-3034f381-6bf6-4d80-9482-f367fae64666.png)
+
+![imagen](https://user-images.githubusercontent.com/105812540/176596086-e7513f85-0067-4f9a-adf8-19a24f33e67b.png)
+
+
 
 # Desarrollo de ejercicios 
 2. Visualice y trace los siguientes circuitos en serie-paralelo:
@@ -249,10 +255,13 @@ tre la terminal A y tierra.
 
 # Video Explicarivo 
 
-# Conclusiones 
-Los circuitos en serie-paralelo nos permite utilizar todos los conocimientos habilidades y destrezas aprendidas en capitulos anteriores de tal manera que nos permite resolver ejercicios con mayor dificultad.
 
-El uso de cada uno de los teoremas de circuitos ayuda en el analisis de los mismos con un mayor detenimiento y exactitud mediante operaciones matemáticas y argumentos lógicos.
+# Conclusiones 
+
+•	Los circuitos en serie-paralelo nos permite utilizar todos los conocimientos habilidades y destrezas aprendidas en capítulos anteriores de tal manera que nos permite resolver ejercicios con mayor dificultad.
+
+•	El uso de cada uno de los teoremas de circuitos ayuda en el análisis de los mismos con un mayor detenimiento y exactitud mediante operaciones matemáticas y argumentos lógicos.
+
 
 # Bibliografia 
 
