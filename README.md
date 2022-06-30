@@ -75,6 +75,9 @@ tores vistas desde la fuente.
 
 ![imagen](https://user-images.githubusercontent.com/105812540/176351414-beb3b9ad-7a61-45ab-900c-ebd0c2267245.png)
 
+![imagen](https://user-images.githubusercontent.com/105812540/176709140-79a96464-a3b4-49c0-ab23-580ee3370fa5.png)
+
+
 6. Desarrolle un diagrama esquemático de la tarjeta de circuito impreso de doble cara mostrada en la fi-
 gura 7-65, y marque los valores de resistor.
 
@@ -116,44 +119,79 @@ caída de voltaje.
 
 ![imagen](https://user-images.githubusercontent.com/105812540/176352185-85c37d21-e9c4-46d9-bf64-5cbef04c06fe.png)
 
+![imagen](https://user-images.githubusercontent.com/105812540/176710043-8cf33ba8-1cf0-417b-b3b0-04550c587c94.png)
+
+
 26. La salida de una batería de 12 V se divide para obtener dos voltajes de salida. Se utilizan tres resistores de 3.3 kΩ para proporcionar dos tomas. Determine los voltajes de salida. Si se conecta una carga de 10 kΩ a la más alta de las salidas, ¿cuál será su valor con carga?
+
+![imagen](https://user-images.githubusercontent.com/105812540/176710327-d90b4543-5734-49f7-b062-70e034c0f267.png)
+
 
 28. En la figura 7-74, determine el voltaje de salida sin carga entre las terminales de salida. Con una carga de 100 kΩ conectada de A a B, ¿cuál es el voltaje de salida
 
 ![imagen](https://user-images.githubusercontent.com/105812540/176352631-f4b2858d-1c8b-41a6-8fc7-2f0d9e621895.png)
 
+![imagen](https://user-images.githubusercontent.com/105812540/176710440-c66b6f5b-aa9f-4e56-98a5-d02c028795d1.png)
+
+
 30. En la figura 7-74, determine la corriente continua extraída de la fuente sin carga entre las terminales desalida. Con una carga de 33 kΩ, ¿cuál es la corriente extraída?
 
 ![imagen](https://user-images.githubusercontent.com/105812540/176352631-f4b2858d-1c8b-41a6-8fc7-2f0d9e621895.png)
+
+![imagen](https://user-images.githubusercontent.com/105812540/176710798-0250d71f-1ea4-4500-b10d-cfb72e94759b.png)
+
 
 32. El divisor de voltaje de la figura 7-75 tiene una carga controlada por interruptor. Determine el voltaje en cada toma (V1, V2 y V3) para cada posición del interruptor.
 
 ![imagen](https://user-images.githubusercontent.com/105812540/176352810-dac37e6f-f158-4210-a041-8180a932855c.png)
 
+![imagen](https://user-images.githubusercontent.com/105812540/176710955-a8a16ea0-aa48-42ce-9c7b-c5449d62a0f4.png)
+
+
 34. Diseñe un divisor de voltaje que produzca una salida de 6 V sin carga y un mínimo de 5.5 V entre los extremos de una carga de 1.0 kÆ. El voltaje de fuente es de 24 V y la corriente extraída sin carga no debe exceder de 100 mA.
+
+![imagen](https://user-images.githubusercontent.com/105812540/176711127-2055f828-3f53-4d4c-a1ae-96c959f4142f.png)
+
 
 36. Determine la resistencia interna de un voltímetro de 20,000 Ω/V en cada uno de los siguientes ajustes de intervalo.
 (a) 0.5 V (b) 1 V (c) 5 V (d) 50 V (e) 100 V (f) 1000 V
+
+![imagen](https://user-images.githubusercontent.com/105812540/176711298-1c3fbcd8-02df-4827-bdcc-16715d6d6eb7.png)
 
 38. Repita el problema 37 si se utiliza el voltímetro para medir voltaje entre los extremos de R4 en el circuito de la figura 7-62(b).
 
 ![imagen](https://user-images.githubusercontent.com/105812540/176353814-2fb155e5-564a-469c-9349-fd4936a87e53.png)
 
+![imagen](https://user-images.githubusercontent.com/105812540/176711531-2cf18905-56a0-4b30-bf41-006e2107c246.png)
+
+
 40. Determine la resistencia total y el voltaje en los nodos A, B y C de la red en escalera mostrada en la figura 7-78.
 
 ![imagen](https://user-images.githubusercontent.com/105812540/176354605-aedc886e-ba16-4c50-9dd6-c531e0d30d6c.png)
+
+![imagen](https://user-images.githubusercontent.com/105812540/176711681-e6010dc7-c9a5-4738-9e14-69dd7ce6c0fd.png)
+
 
 42. En la figura 7-79, ¿cuál es el voltaje entre los extremos de cada resistor con 10 V entre A y B?
 
 ![imagen](https://user-images.githubusercontent.com/105812540/176354749-9943bb71-4836-4c4c-910b-194eedf49d81.png)
 
+![imagen](https://user-images.githubusercontent.com/105812540/176711952-68194714-97f5-4758-8a02-a569de12eef8.png)
+
+
 44. Determine VSALIDA para la red R/2R en escalera mostrada en la figura 7-81 para las siguientes condiciones:
+
+![imagen](https://user-images.githubusercontent.com/105812540/176354975-7da997c9-c941-48f4-9a77-f78f65069fd3.png)
 
 (a) Interruptor SW2 conectado a 12 V y los demás conectados a tierra
 
+12 V y los demás conectados a tierra
+V salida = v/8 = 12V/8 = 1.5V
+
 (b) Interruptor SW1 conectado a 12 V y los demás conectados a tierra
 
-![imagen](https://user-images.githubusercontent.com/105812540/176354975-7da997c9-c941-48f4-9a77-f78f65069fd3.png)
+V salida = V/16 = 12V/16 = 0.75V
+
 
 46. Se conecta un resistor de valor desconocido a un circuito puente Wheatstone. Los parámetros del puente en equilibrio se establecen como sigue: RV  18 kΩ y R2/R4  0.02. ¿Cuál es RX?
 
@@ -173,11 +211,6 @@ caída de voltaje.
 
 ![imagen](https://user-images.githubusercontent.com/105812540/176355801-310d3e6f-0ae1-4c21-9e2c-03d0a0bca1d7.png)
 
-56. Abra el archivo P07-56. Determine por medición si hay un resistor abierto y, si lo hay, ¿cuál es?
-
-58. Abra el archivo P07-58 y determine qué tanto afecta la resistencia de carga a cada uno de los voltajes en los resistores.
-
-60. Abra el archivo P07-60 y ajuste el valor de RX hasta que el puente esté aproximadamente equilibrado.
 
 2. Convierta las fuentes de voltaje prácticas de la figura 8-67 en fuentes de corriente equivalentes.
 
