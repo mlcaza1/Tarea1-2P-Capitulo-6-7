@@ -239,6 +239,7 @@ tre la terminal A y tierra.
 # Video Explicarivo 
 
 # Conclusiones 
+Los circuitos en serie-paralelo nos permite utilizar todos los conocimientos habilidades y destrezas aprendidas en capitulos anteriores de tal manera que nos permite resolver ejercicios con mayor dificultad.
 
 # Bibliografia 
 
