@@ -86,9 +86,11 @@ gura 7-65, y marque los valores de resistor.
 8. Un cierto circuito se compone de dos resistores en paralelo. La resistencia total es de 667 Æ. Uno de
 los resistores es de 1.0 kÆ. ¿Cuál es el otro resistor?
 
+
 10. Repita el problema 9 para cada uno de los circuitos mostrados en la figura 7-63.
 
 ![imagen](https://user-images.githubusercontent.com/105812540/176351414-beb3b9ad-7a61-45ab-900c-ebd0c2267245.png)
+
 
 12. Determine la corriente a través de cada resistor en cada circuito de la figura 7-63; luego calcule cada
 caída de voltaje.
@@ -98,6 +100,9 @@ caída de voltaje.
 14. Determine la resistencia entre A y B en la figura 7-67 sin la fuente.
 
 ![imagen](https://user-images.githubusercontent.com/105812540/176351735-c92d1971-9a93-41c7-9d25-59ee4c530c90.png)
+
+![imagen](https://user-images.githubusercontent.com/105812540/176717763-a450c861-7318-48ec-b7e1-5d53f9c39391.png)
+
 
 16. Determine el voltaje en cada nodo con respecto a tierra en la figura 7-68.
 
