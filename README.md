@@ -255,6 +255,7 @@ tre la terminal A y tierra.
 
 # Video Explicativo 
 
+https://www.youtube.com/watch?v=vToxv8iC7kY
 
 # Conclusiones 
 
