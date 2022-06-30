@@ -253,7 +253,7 @@ tre la terminal A y tierra.
 40. Abra el archivo P08-40 y determine la falla, si la hay.
 
 
-# Video Explicarivo 
+# Video Explicativo 
 
 
 # Conclusiones 
